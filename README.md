@@ -1,5 +1,4 @@
-# reto-1-3-pgr-ede-sos
-Reto 1.3 (PGR, SOS, EDE)
+# Reto 1.3 (Programación, Entornos de Desarrollo, Sostenibilidad)
 
 ## 1. Calculadora diaria de CO₂ por persona
 Se desea implementar un programa en Java que funcione como una calculadora de huella de carbono diaria para un grupo de personas. El programa debe pedir datos a los usuarios y registrar sus actividades para calcular las emisiones de CO₂.
